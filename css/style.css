@@ -1,0 +1,6 @@
+.background {
+  background-image: url("../images/puppies.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500000000px;
+}
